@@ -1,0 +1,6 @@
+/qoder-bridge
+/cc-qoder-bridge
+/.state/
+*.test
+coverage.out
+.DS_Store
